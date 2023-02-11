@@ -39,3 +39,5 @@
   [![Tech](https://img.shields.io/badge/Tech_Blog-4FC08D?style=for-the-badge&logoColor=white)](https://unlimitedcoding.tistory.com)
 
   </div>
+ 
+ ![daseul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daseul727&show_icons=true&theme=gruvbox)
