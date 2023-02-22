@@ -28,7 +28,6 @@
  ### <p>Tool</p>
   <div>
   <img src="https://img.shields.io/badge/Jenkins-A9225C?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-008FC7?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MicrosoftAzure-A100FF?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
