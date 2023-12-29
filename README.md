@@ -34,8 +34,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  
-
-  [![Tech](https://img.shields.io/badge/Tech_Blog-4FC08D?style=for-the-badge&logoColor=white)](https://unlimitedcoding.tistory.com)
+  [![Tech](https://img.shields.io/badge/Tech_Blog-4FC08D?style=for-the-badge&logoColor=white)](https://velog.io/@kingseul/posts)
 
   </div>
  
